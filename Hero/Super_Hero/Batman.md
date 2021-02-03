@@ -1,7 +1,7 @@
 I am dark man.
 
 ```
-This new cjde for my test repository
+This new code for my test repository
 ```
 
 My best friend is Superman
