@@ -10,8 +10,6 @@ My best friend is Superman
 Save in your heart
 ```
 
-Today is beautiful day!!!
-
 ```
 I love this world
 ```
